@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Projecto exclusivo e gratuito, para ensino de tecnologias WEB. <br/>
+Projecto exclusivo, para o aprendizado de algumas tecnologias WEB. <br/>
 
 </p>
 
@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito por Clemilson Azevedo.
